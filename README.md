@@ -12,7 +12,9 @@ You can open problems, link your accounts, and manage profiles using this launch
 
 Please download and install Python from the official website:
 
-👉 https://www.python.org/downloads/\n\nMake sure to check:
+👉 https://www.python.org/downloads/
+
+Make sure to check:
 
 ✅ Add Python to PATH during installation
 ✅ Use the latest stable version
