@@ -20,10 +20,26 @@ Just pure coding focus.
 - 📂 Automatic file structure generation
 - ⚙️ Pre-configured compiler integration
 - 🧩 Smart template injection
+- 🔗 Profile linking support
 - 🚄 Extremely lightweight & fast
 - 🎯 Designed for serious competitive programmers
 
 Built to eliminate repetitive setup and maximize your problem-solving speed.
+
+---
+
+## 🆕 Latest Update
+
+### ✅ Added: Profile Linking
+
+You can now link your competitive programming profiles directly inside CP Launcher.
+
+- Connect your accounts
+- Keep your identity synced
+- Streamline your contest workflow
+- Build a more integrated coding environment
+
+More features coming soon.
 
 ---
 
