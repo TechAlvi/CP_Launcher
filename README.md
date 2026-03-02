@@ -1,36 +1,86 @@
-# Competitive Programming Launcher — The Best CP App
+# 🚀 CP Launcher
 
-## 🚀 Why This CP App is Amazing\n\nThis Competitive Programming (CP) launcher is one of the best tools for competitive programmers.
-
-It is clean, fast, and helps you open problems from multiple coding platforms easily.\n\nIf you are serious about competitive programming, this app will save your time and improve your workflow.
-
-You can open problems, link your accounts, and manage profiles using this launcher.
+> The Ultimate Competitive Programming Companion.
 
 ---
 
-## 🐍 Important Requirement — Install Python\n\nTo run this CP launcher, you must install Python on your system.
+## ⚡ What is CP Launcher?
 
-Please download and install Python from the official website:
+**CP Launcher** is a fast, minimal, and powerful desktop utility built for competitive programmers who care about performance, efficiency, and clean workflow.
 
-👉 https://www.python.org/downloads/
-
-Make sure to check:
-
-✅ Add Python to PATH during installation
-✅ Use the latest stable version
+No distractions.  
+No bloated UI.  
+Just pure coding focus.
 
 ---
 
-## 💡 How to Run the CP App\n\nAfter installing Python:
+## 🔥 Why CP Launcher?
 
-1. Download the CP launcher source code
-2. Open terminal or command prompt
-3. Run:\n\npython main.py
+- 🧠 One-click problem setup
+- 📂 Automatic file structure generation
+- ⚙️ Pre-configured compiler integration
+- 🧩 Smart template injection
+- 🚄 Extremely lightweight & fast
+- 🎯 Designed for serious competitive programmers
+
+Built to eliminate repetitive setup and maximize your problem-solving speed.
 
 ---
 
-## ⭐ Conclusion
+## 💎 Clean. Minimal. Professional.
 
-This CP launcher is an excellent tool for competitive programmers who want a simple and powerful problem-opening utility.
+CP Launcher follows a modern, distraction-free design philosophy:
+- Minimal interface
+- Zero clutter
+- Fast response time
+- Productivity-first architecture
 
-Happy coding!
+It feels premium because it *is*.
+
+---
+
+## 🔐 Not Open Source
+
+CP Launcher is **NOT open source**.
+
+The internal architecture, optimization strategies, and workflow automation logic are proprietary.  
+This ensures:
+- Better security
+- Controlled updates
+- High-quality maintenance
+- Unique competitive edge
+
+---
+
+## 🛠 Built For
+
+- Codeforces grinders
+- ICPC aspirants
+- AtCoder warriors
+- Students preparing for contests
+- Developers who value speed
+
+---
+
+## 📈 Performance Philosophy
+
+> Every millisecond matters in competitive programming.
+
+CP Launcher is engineered to:
+- Reduce setup time to near zero
+- Maintain blazing execution speed
+- Stay stable under heavy usage
+
+---
+
+## 🏁 Final Words
+
+If you're serious about competitive programming,  
+CP Launcher is not optional.
+
+It's essential.
+
+---
+
+**Level up your workflow.  
+Launch smarter. Code faster. Win more.**
